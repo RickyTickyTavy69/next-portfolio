@@ -1,0 +1,9 @@
+export {default as About} from "./About";
+export {default as Header} from "./Header";
+export {default as Hero} from "./Hero";
+export {default as BackGroundCircles} from "./BackGroundCircles";
+export {default as Experiences} from "./Experiences";
+export {default as ExperienceCard} from "./ExperienceCard";
+export {default as Skills} from "./Skills";
+export {default as Projects} from "./Projects";
+export {default as Contact} from "./Contact";
