@@ -9,7 +9,7 @@ import {urlFor} from "../../sanity";
 
 const Hero = ({pageInfo}: {pageInfo?: PageInfo}) => {
     const [text, count] = useTypewriter({
-        words: [`My name is${pageInfo?.name}`, `I am a ${pageInfo?.role}`],
+        words: [`My name is ${pageInfo?.name}`, `I am a ${pageInfo?.role}`],
         loop : true,
         delaySpeed: 2000,
     });

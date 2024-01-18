@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ba4304d-974d-430d-9cd7-853bd968be4c" name="Changes" comment="" />
+    <list default="true" id="4ba4304d-974d-430d-9cd7-853bd968be4c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705339662574</updated>
       <workItem from="1705339666114" duration="26439000" />
-      <workItem from="1705431333146" duration="51982000" />
+      <workItem from="1705431333146" duration="52667000" />
     </task>
     <servers />
   </component>
