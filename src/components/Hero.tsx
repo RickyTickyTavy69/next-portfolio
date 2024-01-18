@@ -23,7 +23,7 @@ const Hero = ({pageInfo}: {pageInfo?: PageInfo}) => {
                     className={'relative rounded-full h-32 w-32 mx-auto object-cover'}
                        height={315}
                        width={306}
-                       src={urlFor(pageInfo?.heroImage).url()}
+                       src={urlFor(pageInfo?.profilePic).url()}
                        alt={"my picture"}
                 />
                 <div className={"z-20"}>
