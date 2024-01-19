@@ -6,8 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="4ba4304d-974d-430d-9cd7-853bd968be4c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/About.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/SanityVision-b2S0ttwz-2a4f0f94.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/browser-1cf8c1d3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/index-Ov3Gpk_t-e4022fb6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/index-UevSrBZN-7fd2a76d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/index-r8DahYH3-52117a51.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/pane-Pe0oiZY1-624c5bda.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/pane-VYAU_MzR-6f243a00.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/resources-C9QBajtt-32938919.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/resources-bPLLJ09x-15186d7e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/sanity-05c846fd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,21 +42,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/ArtemBakirov/Desktop/Neuer Ordner/NextJS_Portfolio",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Confirmation",
-    "ts.external.directory.path": "C:\\Users\\ArtemBakirov\\Desktop\\Neuer Ordner\\NextJS_Portfolio\\portfolio\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ArtemBakirov/Desktop/Neuer Ordner/NextJS_Portfolio&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Confirmation&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\ArtemBakirov\\Desktop\\Neuer Ordner\\NextJS_Portfolio\\portfolio\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -74,7 +84,8 @@
       <option name="presentableId" value="Default" />
       <updated>1705339662574</updated>
       <workItem from="1705339666114" duration="26439000" />
-      <workItem from="1705431333146" duration="53092000" />
+      <workItem from="1705431333146" duration="54927000" />
+      <workItem from="1705632484998" duration="2455000" />
     </task>
     <servers />
   </component>

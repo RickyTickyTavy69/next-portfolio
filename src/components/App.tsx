@@ -60,15 +60,15 @@ export const App = () => {
             <section className={"snap-center"} id={"about"}>
                 <About pageInfo={pageData?.pageInfo}/>
             </section>
-            <section className={"snap-center"} id={"experience"}>
+            {/* <section className={"snap-center"} id={"experience"}>
                 <Experiences experience={pageData?.experience} />
-            </section>
+            </section> */}
             <section className={"snap-start"} id={"skills"}>
                 <Skills skills={pageData?.skills}/>
             </section>
-            <section className={"snap-start"} id={"projects"}>
+            {/* <section className={"snap-start"} id={"projects"}>
                 <Projects projects={pageData?.projects}/>
-            </section>
+            </section> */}
             <section className={"snap-start"} id={"contact"}>
                 <Contact/>
             </section>
